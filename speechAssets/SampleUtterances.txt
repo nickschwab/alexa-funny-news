@@ -1,0 +1,4 @@
+GetHeadlinesIntent the headlines
+GetHeadlinesIntent the news
+GetHeadlinesIntent what''s up
+GetHeadlinesIntent what''s new
