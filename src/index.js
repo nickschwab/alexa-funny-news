@@ -7,7 +7,7 @@
  *  Alexa: "..."
  */
 
-var APP_ID = "";
+var APP_ID = "amzn1.echo-sdk-ams.app.cba83044-0e2d-4d0e-b842-60e81f75b8c2";
 var APP_NAME = "Funny News";
 
 var FARK_RSS_URL = "http://www.fark.com/fark.rss";
