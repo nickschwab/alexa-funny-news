@@ -76,7 +76,7 @@ function handleHeadlinesRequest(response) {
 function getHeadlines(callback){
     async.waterfall([
         function(callback){
-            // look up the company's ticker
+            // get the headlines from the public Fark RSS feed
             http.get(FARK_RSS_URL, function(res){
                 var body = "";
         
