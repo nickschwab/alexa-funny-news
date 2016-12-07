@@ -1,4 +1,37 @@
 GetHeadlinesIntent the headlines
+GetHeadlinesIntent headlines
 GetHeadlinesIntent the news
+GetHeadlinesIntent what is up
 GetHeadlinesIntent what''s up
+GetHeadlinesIntent what's up
+GetHeadlinesIntent whats up
+GetHeadlinesIntent what is new
+GetHeadlinesIntent whats new
+GetHeadlinesIntent what's new
 GetHeadlinesIntent what''s new
+GetHeadlinesIntent the report
+GetHeadlinesIntent the summary
+GetHeadlinesIntent read the headlines
+GetHeadlinesIntent read the news
+GetHeadlinesIntent read what is new
+GetHeadlinesIntent read whats new
+GetHeadlinesIntent read what's new
+GetHeadlinesIntent read what''s new
+GetHeadlinesIntent read the report
+GetHeadlinesIntent read the summary
+GetHeadlinesIntent read what is up
+GetHeadlinesIntent read what's up
+GetHeadlinesIntent read what''s up
+GetHeadlinesIntent read whats up
+GetHeadlinesIntent read me the headlines
+GetHeadlinesIntent read me the news
+GetHeadlinesIntent read me what is new
+GetHeadlinesIntent read me whats new
+GetHeadlinesIntent read me what's new
+GetHeadlinesIntent read me what''s new
+GetHeadlinesIntent read me the report
+GetHeadlinesIntent read me the summary
+GetHeadlinesIntent read me what is up
+GetHeadlinesIntent read me what's up
+GetHeadlinesIntent read me what''s up
+GetHeadlinesIntent read me whats up
